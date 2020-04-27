@@ -14,4 +14,4 @@ collectionView и пагинацию
 информацией об изображении и его популярными
 комментариями
 
-![](http://media.giphy.com/media/S460ubW6SyF5Wv0rZ7/giphy.gif)
+![Demo](http://media.giphy.com/media/S460ubW6SyF5Wv0rZ7/giphy.gif)
