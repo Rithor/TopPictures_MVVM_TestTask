@@ -14,4 +14,4 @@ collectionView и пагинацию
 информацией об изображении и его популярными
 комментариями
 
-[]!(https://gfycat.com/costlydisastrousbetafish)
+[]!(https://gph.is/g/aQywv0b)
