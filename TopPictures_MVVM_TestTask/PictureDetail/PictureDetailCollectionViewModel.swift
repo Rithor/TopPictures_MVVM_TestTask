@@ -25,10 +25,10 @@ class PictureDetailCollectionViewModel: PictureDetailCollectionViewModelProtocol
             self.getPictureDetailData {
                 semaphore.signal()
             }
-            semaphore.wait()
             self.getComments {
                 semaphore.signal()
             }
+            semaphore.wait()
             semaphore.wait()
             completion()
         }
