@@ -14,4 +14,4 @@ collectionView и пагинацию
 информацией об изображении и его популярными
 комментариями
 
-[]!(https://gph.is/g/aQywv0b)
+[]!(https://media.giphy.com/media/S460ubW6SyF5Wv0rZ7/giphy.gif)
