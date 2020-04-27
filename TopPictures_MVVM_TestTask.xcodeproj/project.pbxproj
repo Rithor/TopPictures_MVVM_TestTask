@@ -42,7 +42,7 @@
 
 /* Begin PBXFileReference section */
 		1D3DD6C22452EE9E004F9246 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
-		1D8EF19D2451AAD000C02E9F /* TopPictures_MVVM_TestTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TopPictures_MVVM_TestTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D8EF19D2451AAD000C02E9F /* Top Pictures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Top Pictures.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D8EF1A02451AAD000C02E9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D8EF1A22451AAD000C02E9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		1D8EF1A92451AAD400C02E9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 		1D8EF19E2451AAD000C02E9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D8EF19D2451AAD000C02E9F /* TopPictures_MVVM_TestTask.app */,
+				1D8EF19D2451AAD000C02E9F /* Top Pictures.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -223,7 +223,7 @@
 			);
 			name = TopPictures_MVVM_TestTask;
 			productName = TopPictures_MVVM_TestTask;
-			productReference = 1D8EF19D2451AAD000C02E9F /* TopPictures_MVVM_TestTask.app */;
+			productReference = 1D8EF19D2451AAD000C02E9F /* Top Pictures.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -448,7 +448,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.vitalii.andrianov.TopPictures-MVVM-TestTask";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Top Pictures";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -466,7 +466,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.vitalii.andrianov.TopPictures-MVVM-TestTask";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Top Pictures";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};

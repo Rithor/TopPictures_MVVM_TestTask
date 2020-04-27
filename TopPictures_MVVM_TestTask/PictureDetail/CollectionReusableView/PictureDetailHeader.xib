@@ -10,7 +10,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="headerID" id="U6b-Vx-4bR" customClass="PictureDetailHeader" customModule="TopPictures_MVVM_TestTask">
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="headerID" id="U6b-Vx-4bR" customClass="PictureDetailHeader" customModule="Top_Pictures">
             <rect key="frame" x="0.0" y="0.0" width="548" height="181"/>
             <autoresizingMask key="autoresizingMask"/>
             <subviews>
@@ -20,7 +20,7 @@
                         <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="top" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="H3Z-Q4-yUq">
                             <rect key="frame" x="16" y="16" width="516" height="149"/>
                             <subviews>
-                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="O2e-JB-P0d" customClass="CachedImageView" customModule="TopPictures_MVVM_TestTask" customModuleProvider="target">
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="O2e-JB-P0d" customClass="CachedImageView" customModule="Top_Pictures" customModuleProvider="target">
                                     <rect key="frame" x="0.0" y="0.0" width="254" height="100"/>
                                 </imageView>
                                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="9om-SQ-nmB">
