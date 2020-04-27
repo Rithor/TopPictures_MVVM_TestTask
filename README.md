@@ -16,7 +16,8 @@ collectionView и пагинацию
 
 
 Архитектура MVVM, интерфейс создан без storyboard, в коде и с использованием xib для ячеек UICollectionView.
-UI корректно отображается на любом iPhone. 
+UI корректно отображается на любом iPhone.
+
 ![MainScreen](MainScreen.gif)
 
 ![DetailScreen](DetailScreen.gif)
